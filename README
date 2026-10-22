@@ -1,0 +1,30 @@
+# Привет, я RootDix 👋
+
+**Тихий инди-фаундер.** Строю [Protoforge](https://protoforge.ru) — независимую мастерскую цифровых инструментов для тех, кто строит сам.
+
+### 🛠 Что я делаю
+- Telegram-боты и автоматизации для микро-бизнеса
+- Лендинги с реальной интеграцией (форма → база → уведомление)
+- Мини-панели и SaaS-MVP на собственном стеке
+
+### 🧱 Мой стек
+![Coolify](https://img.shields.io/badge/Coolify-101112?style=flat-square&logo=docker&logoColor=C49A3A)
+![PocketBase](https://img.shields.io/badge/PocketBase-101112?style=flat-square&logo=pocketbase&logoColor=C49A3A)
+![n8n](https://img.shields.io/badge/n8n-101112?style=flat-square&logo=n8n&logoColor=C49A3A)
+![Tailscale](https://img.shields.io/badge/Tailscale-101112?style=flat-square&logo=tailscale&logoColor=C49A3A)
+![Python](https://img.shields.io/badge/Python-101112?style=flat-square&logo=python&logoColor=C49A3A)
+![JavaScript](https://img.shields.io/badge/JavaScript-101112?style=flat-square&logo=javascript&logoColor=C49A3A)
+
+### 📔 Где меня читать
+- 📖 Дневник разработки: [@protoforge_ru](https://t.me/protoforge_ru)
+- 🔧 Технические заметки: [@protoforge_dev](https://t.me/protoforge_dev)
+- 🧪 Эксперименты: [@protoforge_lab](https://t.me/protoforge_lab)
+- 🌐 Сайт: [protoforge.ru](https://protoforge.ru)
+
+### 📌 Активные проекты
+- **[protoforge-backend](https://github.com/tormozil-coder/protoforge-backend)** — PocketBase backend + миграции
+- **[protoforge-landing](https://github.com/tormozil-coder/protoforge-landing)** — лендинг с живой формой
+
+---
+
+*Сначала работает. Потом красиво. Дневник ведётся. Порядок наведён.*
